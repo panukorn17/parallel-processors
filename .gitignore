@@ -1,0 +1,21 @@
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+venv/
+env/
+node_modules/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
+.pytest_cache/
+
+# Build
+dist/
+build/
